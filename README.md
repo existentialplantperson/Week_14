@@ -9,3 +9,5 @@ https://scikit-learn.org/stable/modules/generated/sklearn.feature_selection.RFE.
 https://machinelearningmastery.com/rfe-feature-selection-in-python/
 https://towardsdatascience.com/feature-selection-with-pandas-e3690ad8504b
 
+Preprocessing:
+https://scikit-learn.org/stable/modules/preprocessing.html
