@@ -26,3 +26,16 @@ Python statistics: https://data-flair.training/blogs/python-statistics/
 Read section 4.1 on Linear Regression https://christophm.github.io/interpretable-ml-book/limo.html
 
 multiple linear regression: https://www.investopedia.com/terms/m/mlr.asp
+
+logistic regressioin: https://www.datacamp.com/community/tutorials/understanding-logistic-regression-python
+
+Performance metrics:
+https://blog.exsilio.com/all/accuracy-precision-recall-f1-score-interpretation-of-performance-measures/
+https://muthu.co/understanding-the-classification-report-in-sklearn/
+
+Parameter Tuning:
+https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html
+
+https://www.analyticssteps.com/blogs/l2-and-l1-regularization-machine-learning
+
+https://machinelearningmastery.com/hyperparameters-for-classification-machine-learning-algorithms/
